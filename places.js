@@ -1695,7 +1695,21 @@ var places = [
 			"Provision": "Coffee, tea, cake, fast foods",
 		},
 		"link": {"homepage":"http://www.cafecoffeeday.com/"}
+	},
+	{
+		"city": "Lafayette, IN",
+		"country": "USA",
+		"name": "Star City Coffee & Ale House",
+		"address": "210 Main St, Lafayette, IN 47901",
+		"coordinates": ["40.419201", "-86.895019"],
+		"description": {
+			"Internet": "Free secured wifi, ask for the password",
+			"Power Outlets": "Outlets and powerstrips along the walls",
+			"Seating": "Variety of seating - tables, individual chairs, low bar, outside tables",
+			"Service": "friendly and knowledgeable",
+			"Provision": "Direct trade coffee, craft beer, paninis, cupcakes",
+		},
+		"link": {"homepage":"http://www.starcitycoffee.net/"}
 	}
-
 ]
 
